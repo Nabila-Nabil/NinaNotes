@@ -1,6 +1,6 @@
 body{
-    background: #edf1f5;
-    margin-top:20px;
+    background: #edf1f5 !important;
+    margin-top:20px !important;
 }
 .card {
     position: relative;
@@ -121,7 +121,7 @@ body{
  .note-has-grid .single-note-item.all-category .more-options,
  .note-has-grid .single-note-item.all-category.note-favourite .more-options {
      display: block
- }
+ }  
 
  .note-has-grid .single-note-item.all-category.note-business .more-options,
  .note-has-grid .single-note-item.all-category.note-favourite.note-business .more-options,
